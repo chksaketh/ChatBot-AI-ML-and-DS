@@ -1,0 +1,4 @@
+ThisAI Chatbot is an interactive, personality-aware conversational agent built using Facebook’s BlenderBot 400M Distilled model, integrated with PyTorch, Hugging Face Transformers, and deployed via Gradio. It allows users to engage in natural, context-aware conversations while selecting from various chatbot personalities such as Neutral, Friendly, Professional, and Sarcastic. The system features timestamped chat history, safe token handling, and a clean web-based interface with options to clear or save conversations. Designed to mimic human-like dialogue, the chatbot demonstrates high accuracy and responsiveness, making it a scalable foundation for future enhancements like voice input, multilingual support, and mobile deployment.
+
+
+  
